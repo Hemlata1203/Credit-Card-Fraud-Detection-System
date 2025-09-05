@@ -5,13 +5,14 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 The goal is to build and evaluate multiple ML models and identify the best-performing one for fraud detection.
 
 ## 📊 Dataset
-Source: Kaggle Credit Card Fraud Dataset
+Source: Dataset CreditCard.csv 🔗[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]
 
 Size: 284,807 transactions
 
 Features: 30 (anonymized using PCA, plus Time and Amount)
 
 Target:
+
 0 → Non-Fraud
 
 1 → Fraud
